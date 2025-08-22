@@ -1,0 +1,16 @@
+bierner.markdown-mermaid
+dionannd.tokyo-night-ported-nvim
+eamodio.gitlens
+github.copilot
+github.copilot-chat
+meezilla.json
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-python.vscode-python-envs
+parthr2031.colorful-comments
+pkief.material-icon-theme
+postman.postman-for-vscode
+vincenzomanto.dev-diary
+vscodevim.vim
+yzhang.markdown-all-in-one

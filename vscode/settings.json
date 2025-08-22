@@ -1,0 +1,109 @@
+{
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "vim.timeout": 1000,
+    "workbench.statusBar.visible": true,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.indent": 4,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.decorations.badges": false,
+    "git.decorations.enabled": true,
+    "window.zoomLevel": 0,
+    "window.titleBarStyle": "native",
+    "editor.fontFamily": "Dank Mono",
+    "editor.fontSize": 12,
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 1.5,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "comment",
+                "settings": { "fontStyle": "italic" }
+            }
+        ]
+    },
+    "editor.stickyScroll.enabled": false,
+    "editor.colorDecorators": true,
+    "editor.codeLens": true,
+    "editor.links": true,
+    "editor.matchBrackets": "always",
+    "editor.parameterHints.enabled": true,
+    "editor.lightbulb.enabled": "off",
+    "editor.hover.enabled": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "scm.diffDecorations": "none",
+    "editor.lineNumbers": "relative",
+    "editor.tabSize": 4,
+    "editor.detectIndentation": true,
+    "editor.showFoldingControls": "always",
+    "editor.guides.indentation": true,
+    "editor.renderWhitespace": "none",
+    "editor.renderLineHighlight": "none",
+    "editor.occurrencesHighlight": "off",
+    "editor.selectionHighlight": true,
+    "editor.scrollbar.horizontal": "visible",
+    "editor.scrollbar.vertical": "visible",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.tabCompletion": "on",
+    "editor.snippetSuggestions": "top",
+    "emmet.triggerExpansionOnTab": true,
+    "files.autoSave": "afterDelay",
+    "update.mode": "none",
+    "chat.instructionsFilesLocations": {
+        ".github/instructions": true,
+        "/var/folders/y3/1_lmgvk57256hhnx7brgd2zc0000gn/T/postman-collections-post-response.instructions.md": true,
+        "/var/folders/y3/1_lmgvk57256hhnx7brgd2zc0000gn/T/postman-collections-pre-request.instructions.md": true,
+        "/var/folders/y3/1_lmgvk57256hhnx7brgd2zc0000gn/T/postman-folder-post-response.instructions.md": true,
+        "/var/folders/y3/1_lmgvk57256hhnx7brgd2zc0000gn/T/postman-folder-pre-request.instructions.md": true,
+        "/var/folders/y3/1_lmgvk57256hhnx7brgd2zc0000gn/T/postman-http-request-post-response.instructions.md": true,
+        "/var/folders/y3/1_lmgvk57256hhnx7brgd2zc0000gn/T/postman-http-request-pre-request.instructions.md": true
+    },
+    "vim.useSystemClipboard": true,
+    "vim.handleKeys": {
+        "yy": false,
+        "p": false,
+        "P": false
+    },
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.cursorBlinking": true,
+    "workbench.editor.tabSizingFixedMaxWidth": 100,
+    "workbench.editor.tabActionCloseVisibility": false,
+    "workbench.editor.pinnedTabSizing": "compact",
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "window.density.editorTabHeight": "compact",
+    "workbench.editor.editorActionsLocation": "titleBar",
+    "workbench.colorTheme": "Tokyo Night Ported Nvim",
+}
